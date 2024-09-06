@@ -6,7 +6,7 @@
 - 💞️ I’m looking to collaborate on exciting open-source projects or any initiative that involves React.
 - 📫 How to reach me: You can connect with me via [GitHub](https://github.com/DheerajVerma945) or email me at [vermadheeraj945@gmail.com].
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I’m a cook who enjoys experimenting with new recipes and am currently on a fitness journey.
+
 
 ## Projects
 - [**Disco Website**](https://dheerajverma945.github.io/Disco-Website/): A fun and interactive disco-themed website showcasing creative design.
