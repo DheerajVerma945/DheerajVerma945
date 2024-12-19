@@ -1,37 +1,71 @@
-- 👋 Hi,I’m @DheerajVerma945 👋
+# 👋 Hi, I’m @DheerajVerma945 
 
 ## About Me
-- 👀 I’m interested in software development, particularly web development with React and backend development with Node.js.
-- 🌱 I’m currently learning advanced React concepts, exploring GitHub Pages deployments, and improving my skills in Node.js for backend development.
-- 💞️ I’m looking to collaborate on exciting open-source projects or any initiative that involves React.
-- 📫 How to reach me: You can connect with me via [GitHub](https://github.com/DheerajVerma945) or email me at [vermadheeraj945@gmail.com].
-- 😄 Pronouns: He/Him
+- 👀 **I’m interested in:** Software development, particularly **web development with React** and **backend development with Node.js**.
+- 🌱 **Currently learning:** Advanced React concepts, exploring GitHub Pages deployments, and enhancing my skills in **Node.js** for backend development.
+- 💞️ **Looking to collaborate on:** Exciting open-source projects or initiatives involving the **MERN stack**.
+- 📫 **How to reach me:** Connect via [**GitHub**](https://github.com/DheerajVerma945) or email me at [**vermadheeraj945@gmail.com**](mailto:vermadheeraj945@gmail.com).
+- 😄 **Pronouns:** He/Him
 
+---
 
 ## Projects
-- [**Disco Website**](https://dheerajverma945.github.io/Disco-Website/): A fun and interactive disco-themed website showcasing creative design.
-- [**Tic-Tac-Toe Game**](https://dheerajverma945.github.io/Tic-Tac-Toe-Game/): A classic Tic-Tac-Toe game with a simple interface.
-- [**Background Changer**](https://dheerajverma945.github.io/Background-Changer/): A web app that allows users to change the background color of the page.
-- [**Keeper**](https://dheerajverma945.github.io/Keeper/): A note-keeping application for managing and organizing notes.
-- [**Random Password Generator**](https://dheerajverma945.github.io/Keeper/): Generates random password of desired length (numbers,special characters can be included).
+
+### [**Chit-Chat**](https://chit-chat-peach.vercel.app)
+   A realtime chatting pplicatioapplication with one-on-one and group chat functionality
+
+### [**Disco Website**](https://dheerajverma945.github.io/Disco-Website/)
+🎉 A fun and interactive disco-themed website showcasing creative design.
+
+### [**Tic-Tac-Toe Game**](https://dheerajverma945.github.io/Tic-Tac-Toe-Game/)
+❌⭕ A classic Tic-Tac-Toe game with a simple and engaging interface.
+
+### [**Background Changer**](https://dheerajverma945.github.io/Background-Changer/)
+🎨 A web app that lets users change the background color of the page.
+
+### [**Keeper**](https://dheerajverma945.github.io/Keeper/)
+📝 A note-keeping application for managing and organizing notes effectively.
+
+### [**Random Password Generator**](https://dheerajverma945.github.io/Random-Password-Generator/)
+🔐 A tool that generates random passwords of desired length, with options for including numbers and special characters.
+
+---
 
 ## Skills
-- **Languages**: C++, JavaScript
-- **Frameworks/Libraries**: React, Vite, Bootstrap, Tailwind CSS
-- **Tools**: Git, GitHub, npm
+
+### **Programming Languages**
+- ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) **C++**
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) **JavaScript**
+
+### **Frontend Development**
+- ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) **React**
+- ![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white) **Vite**
+- ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white) **Bootstrap**
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white) **Tailwind CSS**
+
+### **Backend Development**
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) **Node.js**
+- ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) **Express.js**
+
+### **Database Management**
+- ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) **MongoDB**
+
+### **Version Control & Tools**
+- ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) **Git**
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) **GitHub**
+- ![npm](https://img.shields.io/badge/-npm-CB3837?logo=npm&logoColor=white) **npm**
+
+---
 
 ## Goals
-- Continue improving my React skills.
-- Explore new technologies and frameworks.
-- Contribute to and collaborate on meaningful open-source projects.
+- 🚀 Continue improving my **MERN stack** skills.
+- 🔍 Explore and learn new technologies and frameworks.
+- 🤝 Contribute to and collaborate on meaningful **open-source projects**.
+
+---
 
 ## Connect with Me
-- [GitHub](https://github.com/DheerajVerma945)
-- [LinkedIn](https://www.linkedin.com/in/vermadheeraj945)
+- 🌐 [**GitHub**](https://github.com/DheerajVerma945)
+- 🌐 [**LinkedIn**](https://www.linkedin.com/in/vermadheeraj945)
 
 Feel free to reach out if you have any questions or just want to chat about tech!
-
-<!---
-DheerajVerma945/DheerajVerma945 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
